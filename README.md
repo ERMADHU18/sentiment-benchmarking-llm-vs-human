@@ -36,8 +36,7 @@ sentiment-benchmarking-llm-vs-human/
 ├── docs/
 │   └── data_requirements.md
 ├── notebooks/
-│   ├── 01_sentiment_benchmarking_analysis.ipynb
-│   └── original_chatgpt_image_and_chart.ipynb
+│   ├──Chatgpt image and chart.ipynb
 ├── outputs/
 │   ├── .gitkeep
 │   └── README.md
